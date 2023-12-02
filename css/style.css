@@ -48,7 +48,7 @@
   list-style: none;
 }
 
-.contact-item {
+.contact-item .contact {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
