@@ -113,3 +113,18 @@
 .btn:focus {
   background-color: #404bbf;
 }
+
+/*section2*/
+.features-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02;
+  color: #2e2f42;
+}
+
+.features-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
