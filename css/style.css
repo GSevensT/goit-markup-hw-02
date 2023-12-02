@@ -27,10 +27,6 @@
   color: #2e2f42;
 }
 
-.item .link {
-  list-style: none;
-}
-
 .list .item {
   color: var(--navcolor);
   text-decoration: none;
@@ -47,6 +43,19 @@
 .list .contact:focus {
   color: #404bbf;
 }
+
+.item .link {
+  list-style: none;
+}
+
+.contact-item {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*section1*/
 
 .section-one {
   background-color: var(--navyblue);
@@ -68,8 +77,6 @@
   line-height: 1.15;
   letter-spacing: 0.05em;
 }
-
-/*section 1button*/
 
 .header-hero {
   color: var(--whitecolor);
