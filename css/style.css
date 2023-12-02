@@ -37,8 +37,8 @@
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 0.03em;
-  color: #4d5ae5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .list .item:hover,
@@ -50,6 +50,10 @@
 
 .section-one {
   background-color: var(--navyblue);
+}
+
+.address {
+  font-style: normal;
 }
 
 .list {
