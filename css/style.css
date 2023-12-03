@@ -161,3 +161,21 @@
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
+
+/*portfolio*/ 
+
+.list .button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+}
+
+.button:hover,
+.button:focus {
+  color: #ffffff;
+  background-color: #404BBF;
+}
