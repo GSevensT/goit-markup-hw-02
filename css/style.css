@@ -189,10 +189,16 @@
 .button:focus {
   color: #ffffff;
   background-color: #404bbf;
+  cursor: pointer;
 }
 
 .header-list {
   font-weight: 500;
   font-size: 20px;
+  letter-spacing: 0.02em;
+}
+
+.header-text {
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
