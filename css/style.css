@@ -11,6 +11,7 @@
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
+  text-decoration: none;
 }
 
 .logo {
@@ -198,7 +199,7 @@
   letter-spacing: 0.02em;
 }
 
-.header-text {
+/*.header-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
+}*/
