@@ -162,13 +162,13 @@
   letter-spacing: 0.02em;
 }
 
-<<<<<<< HEAD
 /*portfolio*/
-=======
-/*portfolio*/ 
 
 .portfolio .button {
   font-family: "Roboto", sans-serif;
+}
+
+.button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -180,6 +180,11 @@
 .button:hover,
 .button:focus {
   color: #ffffff;
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
->>>>>>> 16d78e6ec3963626a135b943399cb4641a7b7777
+
+.header-list {
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+}
