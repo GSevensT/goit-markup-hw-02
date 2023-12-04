@@ -44,13 +44,6 @@
   color: #2e2f42;
 }
 
-.contact-items {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
 .list .item:hover,
 .list .item:focus,
 .list .contact:hover,
@@ -60,6 +53,10 @@
 
 .item .link {
   list-style: none;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .contact .link {
@@ -68,6 +65,8 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.item .link
 
 /*section1*/
 
