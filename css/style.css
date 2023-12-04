@@ -21,12 +21,11 @@
 .logo {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 800;
-  line-height: 1.15;
-  letter-spacing: 0.02em;
-  /*color: #4d5ae5;*/
-  color: #434455;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
   text-transform: uppercase;
   text-decoration: none;
 }
@@ -61,7 +60,7 @@
   color: #434455;
 }
 
-.contact .link {
+.contact {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
