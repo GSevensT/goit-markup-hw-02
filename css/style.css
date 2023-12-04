@@ -5,6 +5,7 @@
   --oceancolor: #404bbf;
   --whitecolor: #ffffff;
   --slatecolor: #434455;
+  --card-border-color: #eeeeee;
 }
 * {
   font-family: "Roboto", sans-serif;
@@ -14,6 +15,18 @@
 
 .body {
   background-color: #ffffff;
+}
+
+.hidden {
+  position: absolute;
+  width: auto;
+  height: auto;
+  left: 0%;
+  box-sizing: border-box;
+  display: block;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 0%;
 }
 
 /*header*/
