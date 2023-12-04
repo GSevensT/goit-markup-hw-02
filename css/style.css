@@ -34,7 +34,7 @@
   color: #2e2f42;
 }
 
-.list .item {
+.list-items {
   color: var(--navcolor);
   text-decoration: none;
   font-weight: 500;
@@ -51,7 +51,7 @@
   color: #404bbf;
 }
 
-.item .link {
+.item {
   list-style: none;
   font-size: 16px;
   line-height: 1.5;
