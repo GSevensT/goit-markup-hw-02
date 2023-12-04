@@ -16,6 +16,8 @@
   background-color: #ffffff;
 }
 
+/*header*/
+
 .logo {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
@@ -42,7 +44,7 @@
   color: #2e2f42;
 }
 
-.list-items {
+.contact-items {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
