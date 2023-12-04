@@ -53,14 +53,7 @@
   list-style: none;
 }
 
-.contact {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.contact-item {
+.contact .link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
